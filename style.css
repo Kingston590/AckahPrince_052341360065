@@ -67,7 +67,7 @@ html, body {
 }
 
 .header {
-    background-color: #68bb59;
+    background-color: #300695;
 }
 .head-left ul {
     list-style:none;
@@ -136,7 +136,7 @@ html, body {
     padding-left:20px;
 }
 .head-menu ul li a {
-    color: #4a4a4a;
+    color: #300695;
     text-decoration: none;
     font-size: 17px;
     font-weight: bold;
@@ -151,10 +151,10 @@ html, body {
     float: left;
 }
 .notice-board {
-    border: 5px solid #ffa38e;
+    border: 5px solid #300695;
     padding: 30px;
     color: white;
-    background-color: #2a692ac7;
+    background-color: #300695;
     width: 100%;
     float: left;
 }
@@ -180,7 +180,7 @@ html, body {
     width: 80px;
     float: left;
     text-align: center;
-    background: #76c568;
+    background: #300695;
     color: #fff;
     padding: 10px 10px;
     border-radius: 5px;
@@ -200,7 +200,7 @@ html, body {
 }
 
 .heading-text {
-    color: #064727;
+    color: #300695;
     font-size: 28px;
     line-height: 20px;
 }
@@ -236,19 +236,19 @@ html, body {
     margin-bottom:8px;
 }
 .about-campus li i {
-    color: #68bb59;
+    color: #300695;
 }
 .about-year {
     margin-top:40px;
 }
 .about-year h3 {
     font-size: 45px;
-    color: #68bb59;
+    color: #300695;
     line-height: 0;
 }
 .about-year span {
     font-size: 40px;
-    color: #68bb59;
+    color: #300695;
     position: relative;
     bottom: 5px;
 }
@@ -260,7 +260,7 @@ html, body {
 .about-campus a {
     padding: 15px;
     border: none;
-    background-color: #68bb59;
+    background-color: #300695;
     color: white;
     border-radius: 2px;
     font-size: 14px;
@@ -270,7 +270,7 @@ html, body {
 }
 
 .welcome {
-    background-color: #4CAF50;
+    background-color: #300695;
     color: white;
     text-align: center;
     font-size: 40px;
